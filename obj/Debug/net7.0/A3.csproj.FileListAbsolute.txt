@@ -1,0 +1,14 @@
+C:\A3\A3\bin\Debug\net7.0\A3.exe
+C:\A3\A3\bin\Debug\net7.0\A3.deps.json
+C:\A3\A3\bin\Debug\net7.0\A3.runtimeconfig.json
+C:\A3\A3\bin\Debug\net7.0\A3.dll
+C:\A3\A3\bin\Debug\net7.0\A3.pdb
+C:\A3\A3\obj\Debug\net7.0\A3.GeneratedMSBuildEditorConfig.editorconfig
+C:\A3\A3\obj\Debug\net7.0\A3.AssemblyInfoInputs.cache
+C:\A3\A3\obj\Debug\net7.0\A3.AssemblyInfo.cs
+C:\A3\A3\obj\Debug\net7.0\A3.csproj.CoreCompileInputs.cache
+C:\A3\A3\obj\Debug\net7.0\A3.dll
+C:\A3\A3\obj\Debug\net7.0\refint\A3.dll
+C:\A3\A3\obj\Debug\net7.0\A3.pdb
+C:\A3\A3\obj\Debug\net7.0\A3.genruntimeconfig.cache
+C:\A3\A3\obj\Debug\net7.0\ref\A3.dll
